@@ -1,0 +1,26 @@
+  
+
+style{
+    text-decoration: none;
+} 
+
+h1 {
+  color: purple;
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+}
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+  font-family: 'Merriweather', serif;
+  margin-top: 10;
+  padding: 15px 15px 15px 15px; 
+}
+
+h3{
+  font-size: 20px;
+  font-family: 'Noto Sans', sans-serif;
+  text-align: center;
+  list-style-position: inside;
+}
